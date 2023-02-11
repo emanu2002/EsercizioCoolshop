@@ -1,0 +1,15 @@
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\obj\Debug\net6.0\EsercizioCoolshop.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\obj\Debug\net6.0\EsercizioCoolshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\obj\Debug\net6.0\EsercizioCoolshop.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\obj\Debug\net6.0\EsercizioCoolshop.AssemblyInfo.cs
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\obj\Debug\net6.0\EsercizioCoolshop.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\bin\Debug\net6.0\EsercizioCoolshop.exe
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\bin\Debug\net6.0\EsercizioCoolshop.deps.json
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\bin\Debug\net6.0\EsercizioCoolshop.runtimeconfig.json
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\bin\Debug\net6.0\EsercizioCoolshop.dll
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\bin\Debug\net6.0\EsercizioCoolshop.pdb
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\obj\Debug\net6.0\EsercizioCoolshop.dll
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\obj\Debug\net6.0\refint\EsercizioCoolshop.dll
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\obj\Debug\net6.0\EsercizioCoolshop.pdb
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\obj\Debug\net6.0\EsercizioCoolshop.genruntimeconfig.cache
+C:\Users\emanu\Desktop\EsercizioCoolshop\EsercizioCoolshop\EsercizioCoolshop\obj\Debug\net6.0\ref\EsercizioCoolshop.dll
