@@ -4,16 +4,16 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        int numero_colonna = 0; //int.Parse(args[0]);
+        string file = args[0];
+        int numero_colonna = int.Parse(args[1]);
         if(numero_colonna < 0 || numero_colonna > 3)
         {
             Console.WriteLine("Errore nella scelta della colonna");
             return;
         }
-        string elemento_da_cercare = "2";
+        string elemento_da_cercare = args[2];
         List<Record> records = new List<Record>();
         List<Record> records_da_tornare = new List<Record>();
-        string file = @"C:\Users\emanu\Desktop\EsercizioCoolshop/utenti.csv";
         StreamReader stream;
         string riga;
         Record record;
@@ -62,12 +62,16 @@ internal class Program
             }
         }
 
-        for (int i = 0; i < records_da_tornare.Count; i++){
-            Console.WriteLine(records_da_tornare[i].toString());
+        if(records_da_tornare.Count == 0){
+            Console.WriteLine("Nessun elemento trovato");
+        }
+        else{
+            for (int i = 0; i < records_da_tornare.Count; i++){
+                Console.WriteLine(records_da_tornare[i].toString());
+            }
         }
     }
 }
-
 
 
 class Record
@@ -77,29 +81,25 @@ class Record
     private String nome;
     private String data;
 
-    public Record(int indice, string cognome, string nome, string data)
-    {
+    public Record(int indice, string cognome, string nome, string data){
         this.indice = indice;
         this.cognome = cognome;
         this.nome = nome;
         this.data = data;
     }
 
-    public int getIndice()
-    {
+    public int getIndice(){
         return this.indice;
     }
 
     public string getNome(){
         return this.nome;
     }
-    public string getCognome()
-    {
+    public string getCognome(){
         return this.cognome;
     }
 
-    public string getData()
-    {
+    public string getData(){
         return this.data;
     }
 
